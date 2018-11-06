@@ -11,6 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int i = 1;
+            Console.WriteLine("张胖子，大傻逼！");
+            int o = 2;
+            string s = "asdsad";
+           
         }
     }
 }
